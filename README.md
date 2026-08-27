@@ -163,6 +163,25 @@ python src/inference.py path/to/image.jpg
 Training - On Laptop
 <img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0dd0d5b-66b2-4d9e-9893-ba0f00b26c0c" />
 
+mlflow - port 5000
+<img width="1892" height="970" alt="image" src="https://github.com/user-attachments/assets/f1957810-718d-4858-b8e3-4b190c5025a7" />
+<img width="1901" height="973" alt="image" src="https://github.com/user-attachments/assets/790b6dee-8b9e-4c1b-bb8a-a577bdec8080" />
+<img width="1892" height="966" alt="image" src="https://github.com/user-attachments/assets/017a083b-c060-4aa4-bb96-25bdad008cf2" />
+<img width="1901" height="944" alt="image" src="https://github.com/user-attachments/assets/85112dab-b09d-476f-97d5-176d13e74b81" />
+<img width="1894" height="965" alt="image" src="https://github.com/user-attachments/assets/a9b8eb0b-e16b-4f96-9ab4-64e55dbf1888" />
+
+Minio - port 9001
+<img width="1899" height="972" alt="image" src="https://github.com/user-attachments/assets/4b8576d6-6042-4491-809d-7581e700e4f2" />
+<img width="1907" height="969" alt="image" src="https://github.com/user-attachments/assets/7e8a8d87-5ccf-4682-abc7-025c592b25e4" />
+<img width="1899" height="874" alt="image" src="https://github.com/user-attachments/assets/412266e5-5fa1-438d-90e1-5ca2119f7937" />
+<img width="1886" height="874" alt="image" src="https://github.com/user-attachments/assets/51a33906-3db1-4df6-abc9-4011db2f8e37" />
+
+graphana - port 3001
+
+<img width="1896" height="940" alt="image" src="https://github.com/user-attachments/assets/7d0e03b6-9a65-4b7d-b0b2-8d216b08a6ab" />
+<img width="1893" height="969" alt="image" src="https://github.com/user-attachments/assets/b7b9d133-3ace-44ad-9dab-f5b5a6a253c5" />
+
+
 Infrencing - On Browser (via Platform server)
 <img width="1903" height="968" alt="image" src="https://github.com/user-attachments/assets/0a2b3546-5330-45f4-b832-11664d153e58" />
 
