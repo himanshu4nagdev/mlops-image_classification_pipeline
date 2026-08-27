@@ -160,6 +160,12 @@ python src/inference.py path/to/image.jpg
 ```
 
 ## Notes
+Training - On Laptop
+<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0dd0d5b-66b2-4d9e-9893-ba0f00b26c0c" />
+
+Infrencing - On Browser (via Platform server)
+<img width="1903" height="968" alt="image" src="https://github.com/user-attachments/assets/0a2b3546-5330-45f4-b832-11664d153e58" />
+
 
 - This machine (laptop, MX450, 2GB VRAM) is for **training only**. Serving
   happens on the remote server, which is why `fastapi`/`uvicorn` are in
