@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+mlruns/
+data/
+*.pt
+*.pth
+
+# Local MLflow fallback store (used when the remote tracking server is
+# unreachable - see src/mlflow_utils.py). MLflow 3.x's file-store backend
+# is in maintenance mode, so the fallback is SQLite-backed instead of mlruns/.
+mlruns.db
+*.db
